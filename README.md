@@ -11,3 +11,10 @@ arduino_OLED1306_U8g2_Controll LED
 ## Wiring
 <img src="capture/wiring.png" style="height:400px; width:300px;"><br>
 
+##Code
+
+1. Install Library <U8g2lib.h>
+2. Install Library <Bounce2.h>
+
+3. This Code <br>
+https://github.com/fajarjulyana/arduino_OLED1306_U8g2_Menu-Controll-LED/blob/ed9a898b7d1e3f421047f4d0c0ef016a07dc8ecf/src/code.cpp#L1-L110
